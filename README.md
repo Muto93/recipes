@@ -14,3 +14,4 @@ GitHub Usage: Hosting the project on GitHub, managing commits, and making it ope
 
 Documentation: Writing a clear README file to provide project information and usage instructions.
 
+Accessability: By using the alt Attribute on img tags, alternative information is provided for Users who cannot see the pictures.
