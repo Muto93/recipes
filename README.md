@@ -8,6 +8,8 @@ HTML Markup: Proficiency in structuring web content using HTML elements.
 
 HTML Semantics: Proper use of semantic HTML tags to improve accessibility and SEO.
 
+HTML Security: Using the rel Attribute with norefferer and noopener to improve Security when using anchor tags.
+
 GitHub Usage: Hosting the project on GitHub, managing commits, and making it open-source.
 
 Documentation: Writing a clear README file to provide project information and usage instructions.
