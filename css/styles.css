@@ -1,0 +1,24 @@
+*{
+    font-family: Courier, Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(167, 165, 162);
+}
+
+.center {
+    text-align: center;
+}
+img {
+    height: auto;
+    width: 600px;
+}
+h1  {
+    font-size: 42px;
+    text-align: center;
+}
+
+.ingredients {
+    background-color: rgb(135, 171, 255);
+    width: 900px;
+}
+h2, h3, ul, li, em {
+    background-color: inherit;
+}
