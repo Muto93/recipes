@@ -1,4 +1,4 @@
-*{
+body {
     font-family: Courier, Verdana, Geneva, Tahoma, sans-serif;
     background-color: rgb(167, 165, 162);
 }
@@ -18,7 +18,4 @@ h1  {
 .ingredients {
     background-color: rgb(135, 171, 255);
     width: 900px;
-}
-h2, h3, ul, li, em {
-    background-color: inherit;
 }
