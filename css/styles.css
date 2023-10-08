@@ -13,7 +13,7 @@ img {
     height: auto;
     width: 600px;
     display: block;
-    margin: 0 auto;
+    margin: 0 auto 50px;
 }
 h1  {
     font-size: 42px;
@@ -37,7 +37,7 @@ h1  {
 .ingredients {
 
     width: 600px;
-    margin: 25px auto;
+    margin: 75px auto;
     padding: 35px;
 }
 
@@ -53,19 +53,24 @@ h1, .recipelist, .ingredients {
 
 
 
-.description {
+.description, .steps {
     width: 800px;
     margin: 25px auto;
+    padding: 35px;
+    border: 4px dotted black;
 }
 
 .home {
     width: 150px;
     display: block;
-    margin: 25px auto;
-    padding: 10px;
+    margin: 25px auto 25px;
+    padding: 18px;
     border: 5px dashed black;
     text-decoration: none;
     text-align: center;
     color: black;
     font-weight: 600;
 }
+
+
+
